@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-of Justin Sunarto Budiman. Adding a line for rebasing exp, the 
-more changes from myfeature branch too.
+of Justin Sunarto Budiman. Updating emergency fix after stash
 
 ## Purpose
 
