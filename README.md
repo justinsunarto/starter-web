@@ -9,4 +9,4 @@ more changes from myfeature branch too.
 Sample website with plenty of files for demos
 not for work
 
-2021 Git.Traning.Morning Run
+2021 Git.Traning. All rights reserved.
